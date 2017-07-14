@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/markbates/refresh/refresh"
+	"github.com/volatiletech/refresh/refresh"
 )
 
 var id = refresh.ID()

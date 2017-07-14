@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/markbates/refresh/refresh"
 	"github.com/spf13/cobra"
+	"github.com/volatiletech/refresh/refresh"
 )
 
 func init() {
